@@ -14,7 +14,7 @@ See [BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimiz
 @inproceedings{
     drakulic2023bqnco,
     title={BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization},
-    author={Darko Drakulic and Sofia Michel and Florian Mai and Aranud Sors and Jean-Marc Andreoli},
+    author={Darko Drakulic and Sofia Michel and Florian Mai and Arnaud Sors and Jean-Marc Andreoli},
     booktitle={Advances in Neural Information Processing Systems},
     year={2023},
     url={https://arxiv.org/abs/2301.03313},
