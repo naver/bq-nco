@@ -43,4 +43,5 @@ python test_[tsp,cvrp,op,kp].py
   --path_to_model_to_test ./pretrained_models/[tsp,cvrp,op,kp].best
   --test_datasets TEST_DATASET
   --output_dir OUTPUT_DIR
+  --test_only
 ```
